@@ -1,0 +1,2 @@
+add_executable(AppStudentA main.cpp)
+target_link_libraries(AppStudentA PRIVATE InterpolationStatic)
